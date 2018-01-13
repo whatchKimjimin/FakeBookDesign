@@ -1,0 +1,29 @@
+#profile{
+	width: 100%;
+	height: 400px;
+	
+}
+#profile .cover{
+	width: 70%;
+	height: 80%;
+	background-color: #1d2129;
+	margin: 0 auto;
+}
+#profile .profile{
+	width: 168px;
+	height: 168px;
+	position: absolute;
+	background-color: #fff;
+	bottom: 50px;
+	left: 200px;
+	border:#ccc solid 1px;
+	border-radius: 3px;
+}
+#profile .menu{
+	width: 70%;
+	height: 13%;
+	background-color: #fff;
+	margin: 0 auto;
+	border:#ccc solid 1px;
+	border-top: 0;
+}
